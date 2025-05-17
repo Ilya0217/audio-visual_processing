@@ -19,6 +19,28 @@
 ![Профиль символа 3](char_profiles/char_3.png)
 ### Символ 4
 ![Профиль символа 4](char_profiles/char_4.png)
+### Символ 5
+![Профиль символа 5](char_profiles/char_3.png)
+### Символ 6
+![Профиль символа 6](char_profiles/char_2.png)
+### Символ 7
+![Профиль символа 7](char_profiles/char_1.png)
+### Символ 8
+![Профиль символа 8](char_profiles/char_3.png)
+### Символ 9
+![Профиль символа 9](char_profiles/char_4.png)
+### Символ 10
+![Профиль символа 10](char_profiles/char_2.png)
+### Символ 11
+![Профиль символа 11](char_profiles/char_1.png)
+### Символ 12
+![Профиль символа 12](char_profiles/char_3.png)
+### Символ 13
+![Профиль символа 13](char_profiles/char_2.png)
+### Символ 14
+![Профиль символа 14](char_profiles/char_4.png)
+### Символ 15
+![Профиль символа 15](char_profiles/char_1.png)
 
 ## Выводы
 - Алгоритм успешно сегментировал символы на основе вертикального профиля.
